@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventBusProject</string>
+    <string name="pass">Pass Message</string>
+</resources>
